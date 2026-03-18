@@ -1,5 +1,7 @@
 # Web Application Security Project
 
+Beginner project focused on learning web security basics.
+
 What I Did:
 - Tested inputs to see how they could be exploited
 - Simulated simple SQL injection and XSS attacks
@@ -15,5 +17,3 @@ What I Learned:
 - Basic ways to prevent common web attacks
 - Why input validation matters
 
-Notes
-Beginner project focused on learning web security basics.
